@@ -1,1 +1,1 @@
-# Shuffle-Deal-Java-Deck-of-Cards
+# Shuffle & Deal: Java Deck of Cards
